@@ -1,2 +1,2 @@
-# react_pokemon_app
+# Telling tomorow
 heY ! This cotains some beginner level react web applications . 
