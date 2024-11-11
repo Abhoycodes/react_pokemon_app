@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/poo-poo-.io--avatar_generator/static/css/main.7e984d0f.css",
+    "main.js": "/poo-poo-.io--avatar_generator/static/js/main.58945cfe.js",
+    "static/js/453.7004f0ec.chunk.js": "/poo-poo-.io--avatar_generator/static/js/453.7004f0ec.chunk.js",
+    "static/media/poppins-latin-400-normal.woff": "/poo-poo-.io--avatar_generator/static/media/poppins-latin-400-normal.1458587c0aa7cd06b82b.woff",
+    "static/media/poppins-latin-400-normal.woff2": "/poo-poo-.io--avatar_generator/static/media/poppins-latin-400-normal.405055dd680fa1dcdfa2.woff2",
+    "static/media/poppins-latin-ext-400-normal.woff": "/poo-poo-.io--avatar_generator/static/media/poppins-latin-ext-400-normal.cf7e1ed83eb19f7b1ea6.woff",
+    "static/media/poppins-latin-ext-400-normal.woff2": "/poo-poo-.io--avatar_generator/static/media/poppins-latin-ext-400-normal.6f94f40f848d79872444.woff2",
+    "index.html": "/poo-poo-.io--avatar_generator/index.html",
+    "main.7e984d0f.css.map": "/poo-poo-.io--avatar_generator/static/css/main.7e984d0f.css.map",
+    "main.58945cfe.js.map": "/poo-poo-.io--avatar_generator/static/js/main.58945cfe.js.map",
+    "453.7004f0ec.chunk.js.map": "/poo-poo-.io--avatar_generator/static/js/453.7004f0ec.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7e984d0f.css",
+    "static/js/main.58945cfe.js"
+  ]
+}
