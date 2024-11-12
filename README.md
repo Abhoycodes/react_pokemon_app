@@ -11,7 +11,7 @@ This is a begineer friendly react project .This project was bootstrapped with [t
 With out wasting time , let's get started !
 
 ### `Project Screenshot`
-![App Screenshot](.Screenshot 2024-11-12 053833.png)
+![App Screenshot](./Screenshot 2024-11-12 053833.png)
 
 ## How to run
 
