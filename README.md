@@ -11,3 +11,10 @@ This is a begineer friendly react project .This project was bootstrapped with [t
 With out wasting time , let's get started !
 
 ### `Project Screenshot`
+![App Screenshot](./images/screenshot.png)
+
+## How to run
+
+1. Clone the repo
+2. Run `npm install`
+3. Run `npm start`
